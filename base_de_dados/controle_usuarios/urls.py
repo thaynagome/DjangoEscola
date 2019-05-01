@@ -32,9 +32,9 @@ urlpatterns = [
     path('noticias/', views.noticias, name='noticias'),
     path('python/', views.python, name='python'),
     path('ruby/', views.ruby, name='ruby'),
-    path('aluno/', views.aluno, name='aluno'),
-    path('professor/', views.professor, name='professor'),
-    path('usuario/', views.usuario, name='usuario'),
-    path('disciplina/', views.disciplina, name='disciplina'),
+    path('cadastro/aluno/', views.aluno, name='aluno'),
+    path('cadastro/professor/', views.professor, name='professor'),
+    path('cadastro/usuario/', views.usuario, name='usuario'),
+    path('cadastro/disciplina/', views.disciplina, name='disciplina'),
 
 ]

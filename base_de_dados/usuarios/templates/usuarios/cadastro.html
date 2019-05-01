@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>PÁGINA INICIAL</title>
-    <link rel="shortcut icon" href="img/logotipo.png" type="image/x-png"/><!--Icone do browser-->
+    <link rel="shortcut icon" href="{% static 'img/logotipo.png' %}" type="image/x-png"/><!--Icone do browser-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="{% static 'css/base.css' %}"> <!--Puxa config do CSS-->
     <link rel="stylesheet" href="{% static 'css/slick.css' %}">
@@ -18,7 +18,7 @@
         <main><!--Tag principal que engloba tudo-->
             <div class="header-1">
                 <div class="logo">
-                    <img src="img/titulo.png"/>
+                    <img src="{% static 'img/titulo.png' %}"/>
                 </div>
             </div>
         </main>
@@ -38,13 +38,13 @@
         </div>
     </main>
 
-    <center><h1>REALIZE SEU CADASTRO</h1></center>
-    <center><h3>Abaixo selecione a categoria desejada:</h3></center>
+    <h1>REALIZE SEU CADASTRO</h1>
+    <h3>Abaixo selecione a categoria desejada:</h3>
     <ul><!--Lista com os links de trabalhos realizados, ligando ao facebook-->
-        <li><a href="./professor">Professor</a></li>
-        <li><a href="./aluno">Aluno</a></li>
-        <li><a href="./disciplina">Disciplina</a></li>
-        <li><a href="./usuario">Usuario</a></li>
+        <li><a href="professor">Professor</a></li>
+        <li><a href="aluno">Aluno</a></li>
+        <li><a href="disciplina">Disciplina</a></li>
+        <li><a href="usuario">Usuario</a></li>
     </ul><!--Lista não ordenada-->
 
 </body>

@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d956af06-b4d6-462e-83cc-5aa8d710459d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/contato.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/contato.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_de_dados/controle_usuarios/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/controle_usuarios/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cadastro.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cadastro.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cursos.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cursos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/descontos.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/descontos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/designgrafico.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/designgrafico.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/disciplina.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/disciplina.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/final_cadastro.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/final_cadastro.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/java.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/java.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/logica.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/logica.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/manutencao.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/manutencao.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/noticias.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/noticias.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/professor.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/professor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/python.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/python.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/ruby.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/ruby.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/sobre.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/sobre.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/sql.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/sql.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/usuario.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/usuario.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/webdesign.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/webdesign.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +17,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-628">
-              <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+            <state relative-caret-position="102">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -40,23 +26,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/webdesign.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+            <state relative-caret-position="136">
+              <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/base_de_dados/controle_usuarios/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base_de_dados/controle_usuarios/urls.py">
+        <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cursos.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="37" column="58" selection-start-line="37" selection-start-column="58" selection-end-line="37" selection-end-column="58" />
-              <folding>
-                <element signature="e#641#672#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="205">
+              <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -71,14 +63,10 @@
       <list>
         <option value="$PROJECT_DIR$/base_de_dados/controle_usuarios/settings.py" />
         <option value="$PROJECT_DIR$/base_de_dados/usuarios/views.py" />
-        <option value="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/index.html" />
         <option value="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/aluno.html" />
         <option value="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/arduino.html" />
-        <option value="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cadastro.html" />
         <option value="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cobol.html" />
-        <option value="$PROJECT_DIR$/base_de_dados/controle_usuarios/urls.py" />
         <option value="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/contato.html" />
-        <option value="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cursos.html" />
         <option value="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/descontos.html" />
         <option value="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/designgrafico.html" />
         <option value="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/disciplina.html" />
@@ -94,6 +82,10 @@
         <option value="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/sql.html" />
         <option value="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/usuario.html" />
         <option value="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/webdesign.html" />
+        <option value="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cadastro.html" />
+        <option value="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/index.html" />
+        <option value="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cursos.html" />
+        <option value="$PROJECT_DIR$/base_de_dados/controle_usuarios/urls.py" />
       </list>
     </option>
   </component>
@@ -203,12 +195,12 @@
       <updated>1556663333104</updated>
       <workItem from="1556663334920" duration="5909000" />
       <workItem from="1556672549422" duration="597000" />
-      <workItem from="1556726457852" duration="5666000" />
+      <workItem from="1556726457852" duration="7173000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12172000" />
+    <option name="totallyTimeSpent" value="13679000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -247,32 +239,6 @@
     <entry file="file://$PROJECT_DIR$/base_de_dados/controle_usuarios/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/apps.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base_de_dados/controle_usuarios/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/aluno.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/arduino.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -280,43 +246,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cadastro.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cobol.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/models.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base_de_dados/controle_usuarios/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="37" column="58" selection-start-line="37" selection-start-column="58" selection-end-line="37" selection-end-column="58" />
-          <folding>
-            <element signature="e#641#672#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/contato.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cursos.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
           <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
         </state>
       </provider>
@@ -346,13 +278,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="34" column="54" lean-forward="true" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
         </state>
       </provider>
     </entry>
@@ -426,20 +351,87 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/webdesign.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base_de_dados/controle_usuarios/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-441">
+          <caret line="66" column="14" lean-forward="true" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cobol.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cadastro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-628">
-          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        <state relative-caret-position="102">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/webdesign.html">
+    <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/aluno.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+        <state relative-caret-position="204">
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cursos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base_de_dados/controle_usuarios/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
         </state>
       </provider>
     </entry>
