@@ -23,4 +23,18 @@ from usuarios.views import home
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', home),
+    path('arduino/', arduino, name='arduino'),
+    path('cadastro/', cadastro, name='cadastro'),
+    path('cobol/', cobol, name='cobol'),
+    path('cursos/', cursos, name='cursos'),
+    path('descontos/', descontos, name='descontos'),
+    path('designgrafico/', designgrafico, name='designgrafico'),
+    path('java/', java, name='java'),
+    path('logica/', logica, name='logica'),
+    path('manutencao/', manutencao, name='manutencao'),
+    path('noticias/', noticias, name='noticias'),
+    path('python/', python, name='python'),
+    path('ruby/', ruby, name='ruby'),
+    path('arduino/', arduino, name='arduino'),
+
 ]

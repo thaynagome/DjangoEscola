@@ -1,12 +1,56 @@
 from django.shortcuts import render
+from usuarios import views
 
-from django.http import HttpResponse
-import datetime
+#from django.http import HttpResponse
 
 def home(request):
-    data = {}
+    return render(request, 'usuarios/index.html')
 
-    data['now'] = datetime.datetime.now()
-    #html = "<html><body>It is now %s.</body></html>" % now
+def arduino(request):
+    return render(request, 'usuarios/arduino.html')
 
-    return render(request, 'usuarios/home.html', data)
+def cadastro(request):
+    return render(request, 'usuarios/cadastro.html')
+
+def cobol(request):
+    return render(request, 'usuarios/cobol.html')
+
+def cursos(request):
+    return render(request, 'usuarios/cursos.html')
+
+def descontos(request):
+    return render(request, 'usuarios/descontos.html')
+
+def designgrafico(request):
+    return render(request, 'usuarios/designgrafico.html')
+
+def java(request):
+    return render(request, 'usuarios/java.html')
+
+def logica(request):
+    return render(request, 'usuarios/logica.html')
+
+def manutencao(request):
+    return render(request, 'usuarios/manutencao.html')
+
+def noticias(request):
+    return render(request, 'usuarios/noticias.html')
+
+def python(request):
+    return render(request, 'usuarios/python.html')
+
+def ruby(request):
+    return render(request, 'usuarios/ruby.html')
+
+def sobre(request):
+    return render(request, 'usuarios/sobre.html')
+
+def sql(request):
+    return render(request, 'usuarios/sql.html')
+
+def webdesign(request):
+    return render(request, 'usuarios/webdesign.html')
+
+def anima(request):
+    return render(request, 'usuarios/anima.html')
+

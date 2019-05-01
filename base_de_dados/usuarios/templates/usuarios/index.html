@@ -1,4 +1,4 @@
-<!--Thayna Gomes RA 1802222-->
+{% load staticfiles %}
 
 <!DOCTYPE html>
 <html>
@@ -6,18 +6,18 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>PÁGINA INICIAL</title>
-    <link rel="shortcut icon" href="img/logotipo.png" type="image/x-png"/><!--Icone do browser-->
+    <link rel="shortcut icon" href="../../static/img/logotipo.png" type="image/x-png"/><!--Icone do browser-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" media="screen" href="./css/base.css"> <!--Puxa config do CSS-->
-    <link rel="stylesheet" type="text/css" href="./css/slick.css"/>
-    <script src="anima.js"></script> <!--Puxa config do JS-->
+    <link rel="stylesheet" type="text/css" media="screen" href="{% static 'css/base.css' %}"> <!--Puxa config do CSS-->
+    <link rel="stylesheet" href="{% static 'css/slick.css' %}">
+    <script src="{% static 'js/anima.js' %}"></script> <!--Puxa config do JS-->
 </head>
 <body>
     <header class="menu-principal">
         <main><!--Tag principal que engloba tudo-->
             <div class="header-1">
                 <div class="logo">
-                    <img src="img/titulo.png"/>
+                    <img src="../../static/img/titulo.png"/>
                 </div>
             </div>
         </main>
@@ -40,9 +40,9 @@
 
     <div class="col-100">
         <div class="slider-principal">
-                <img src="./img/banner4.png"/>
-                <img src="./img/banner2.png"/>
-                <img src="./img/banner3.png"/>
+                <img src="../../static/img/banner4.png"/>
+                <img src="../../static/img/banner2.png"/>
+                <img src="../../static/img/banner3.png"/>
         </div>
     </div>
 
@@ -53,17 +53,17 @@
                 Nossa escola é referência no mercado.</p>
 
             <div class="col-3">
-                <img src="./img/aula.png"/>
+                <img src="../../static/img/aula.png"/>
                 <h3>AULA GRÁTIS</h3>
                 <p>Venha conhecer nossa Fantástica Metodologia de Ensino, agende uma Aula Demonstrativa Grátis.</p>
             </div>
             <div class="col-3">
-                <img src="./img/livro.png"/>
+                <img src="../../static/img/livro.png"/>
                 <h3>CONTEÚDO COMPLETO</h3>
                 <p>Nossos alunos aprendem e desenvolvem diversos tipos de conteúdos e habilidades.</p>
             </div>
             <div class="col-3">
-                <img src="./img/profissional.png"/>
+                <img src="../../static/img/profissional.png"/>
                 <h3>FOCO PROFISSIONAL</h3>
                 <p>A capacidade de navegar na vida complexa e nos ambientes de trabalho exige que os alunos 
                     prestem atenção rigorosa ao desenvolvimento de habilidades adequadas.</p>
@@ -71,10 +71,10 @@
         </div>
     </div>
 
-    <script type="text/javascript" src="./js/jquery-1.11.0.min.js"></script>
-    <script type="text/javascript" src="./js/jquery-migrate-1.2.1.min.js"></script>
-    <script type="text/javascript" src="./js/slick.min.js"></script>
-    <script type="text/javascript" src="./js/anima.js"></script>
+    <script type="text/javascript" src="../../static/js/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="../../static/js/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="../../static/js/slick.min.js"></script>
+    <script type="text/javascript" src="../../static/js/anima.js"></script>
     
 </body>
 </html>
