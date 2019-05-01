@@ -3,29 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d956af06-b4d6-462e-83cc-5aa8d710459d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/base_de_dados/controle_usuarios/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/controle_usuarios/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/aluno.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/aluno.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/arduino.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/arduino.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cadastro.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cadastro.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cobol.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cobol.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/contato.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/contato.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cursos.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cursos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/descontos.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/descontos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/designgrafico.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/designgrafico.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/disciplina.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/disciplina.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/final_cadastro.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/final_cadastro.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/java.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/java.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/logica.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/logica.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/manutencao.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/manutencao.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/noticias.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/noticias.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/professor.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/professor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/python.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/python.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/ruby.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/ruby.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/sobre.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/sobre.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/sql.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/sql.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/usuario.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/usuario.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/webdesign.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/webdesign.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +15,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="-628">
               <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
@@ -47,7 +24,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/contato.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -56,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/base_de_dados/controle_usuarios/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+            <state relative-caret-position="51">
+              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -92,12 +69,12 @@
         <option value="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/usuario.html" />
         <option value="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/webdesign.html" />
         <option value="$PROJECT_DIR$/base_de_dados/usuarios/views.py" />
-        <option value="$PROJECT_DIR$/base_de_dados/controle_usuarios/urls.py" />
         <option value="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/index.html" />
         <option value="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/aluno.html" />
         <option value="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/arduino.html" />
         <option value="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cadastro.html" />
         <option value="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cobol.html" />
+        <option value="$PROJECT_DIR$/base_de_dados/controle_usuarios/urls.py" />
       </list>
     </option>
   </component>
@@ -207,15 +184,16 @@
       <updated>1556663333104</updated>
       <workItem from="1556663334920" duration="5909000" />
       <workItem from="1556672549422" duration="597000" />
-      <workItem from="1556726457852" duration="3535000" />
+      <workItem from="1556726457852" duration="4182000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10041000" />
+    <option name="totallyTimeSpent" value="10688000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -363,13 +341,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/usuario.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/webdesign.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -381,13 +352,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
           <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base_de_dados/controle_usuarios/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -426,9 +390,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/contato.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="-628">
           <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
@@ -436,10 +407,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/contato.html">
+    <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/usuario.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="-475">
           <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base_de_dados/controle_usuarios/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
         </state>
       </provider>
     </entry>
