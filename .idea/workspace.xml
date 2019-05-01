@@ -1,78 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d956af06-b4d6-462e-83cc-5aa8d710459d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/base_de_dados/controle_usuarios/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/controle_usuarios/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/controle_usuarios/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/controle_usuarios/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/arduino.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/arduino.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cadastro.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cadastro.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cobol.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cobol.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/css/base.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/css/slick.css" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/css/slick.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cursos.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cursos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/descontos.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/descontos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/designgrafico.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/designgrafico.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/BROWSER.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/BROWSER.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/LOGO.psd" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/LOGO.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/LOGOTIPO.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/LOGOTIPO.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/aluno1.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/aluno1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/aluno2.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/aluno2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/aluno3.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/aluno3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/ant.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/ant.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/arduino.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/arduino.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/aula.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/aula.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/banner1.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/banner1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/banner2.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/banner2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/banner3.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/banner3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/banner4.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/banner4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/bannerarduino.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/bannerarduino.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/bannercobol.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/bannercobol.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/bannerdesigngrafico.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/bannerdesigngrafico.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/bannerjava.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/bannerjava.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/bannerlogica.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/bannerlogica.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/bannermanutencao.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/bannermanutencao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/bannerpython.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/bannerpython.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/bannerruby.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/bannerruby.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/bannersql.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/bannersql.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/bannerwebdesign.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/bannerwebdesign.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/cobol.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/cobol.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/dep.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/dep.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/designgrafico.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/designgrafico.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/func1.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/func1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/func2.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/func2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/func3.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/func3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/java.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/java.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/livro.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/livro.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/logica.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/logica.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/logomedio.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/logomedio.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/manutencao.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/manutencao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/profissional.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/profissional.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/python.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/python.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/ruby.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/ruby.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/sql.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/sql.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/titulo.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/titulo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/img/webdesign.png" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/img/webdesign.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/java.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/java.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/js/anima.js" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/js/anima.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/js/jquery-1.11.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/js/jquery-1.11.0.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/js/jquery-migrate-1.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/js/jquery-migrate-1.2.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/js/slick.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/static/js/slick.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/logica.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/logica.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/manutencao.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/manutencao.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/noticias.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/noticias.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/python.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/python.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/ruby.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/ruby.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/sobre.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/sobre.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/sql.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/sql.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/webdesign.html" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/webdesign.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="d956af06-b4d6-462e-83cc-5aa8d710459d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,11 +9,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="749">
+            <state relative-caret-position="901">
               <caret line="54" column="49" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
@@ -105,7 +34,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/base_de_dados/controle_usuarios/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="680">
               <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
             </state>
           </provider>
@@ -114,11 +43,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/base_de_dados/controle_usuarios/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
+            <state relative-caret-position="238">
               <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-              <folding>
-                <element signature="e#642#674#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -206,6 +132,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -242,24 +169,19 @@
       <option name="presentableId" value="Default" />
       <updated>1556663333104</updated>
       <workItem from="1556663334920" duration="5909000" />
+      <workItem from="1556672549422" duration="597000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5909000" />
+    <option name="totallyTimeSpent" value="6506000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32956153" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -267,11 +189,17 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,16 +227,9 @@
     <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/apps.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/base_de_dados/controle_usuarios/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="749">
+        <state relative-caret-position="901">
           <caret line="54" column="49" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
@@ -316,13 +237,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/base_de_dados/controle_usuarios/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/base_de_dados/controle_usuarios/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="238">
           <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-          <folding>
-            <element signature="e#642#674#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
