@@ -15,26 +15,27 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-
-from django.contrib import admin
-from django.urls import path
-from usuarios.views import home
+from usuarios import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', home),
-    path('arduino/', arduino, name='arduino'),
-    path('cadastro/', cadastro, name='cadastro'),
-    path('cobol/', cobol, name='cobol'),
-    path('cursos/', cursos, name='cursos'),
-    path('descontos/', descontos, name='descontos'),
-    path('designgrafico/', designgrafico, name='designgrafico'),
-    path('java/', java, name='java'),
-    path('logica/', logica, name='logica'),
-    path('manutencao/', manutencao, name='manutencao'),
-    path('noticias/', noticias, name='noticias'),
-    path('python/', python, name='python'),
-    path('ruby/', ruby, name='ruby'),
-    path('arduino/', arduino, name='arduino'),
+    path('', views.home),
+    path('arduino/', views.arduino),
+    path('cadastro/', views.cadastro),
+    path('cobol/', views.cobol),
+    path('cursos/', views.cursos, name='cursos'),
+    path('descontos/', views.descontos),
+    path('designgrafico/', views.designgrafico),
+    path('java/', views.java),
+    path('logica/', views.logica),
+    path('manutencao/', views.manutencao),
+    path('noticias/', views.noticias),
+    path('python/', views.python),
+    path('ruby/', views.ruby),
+    path('arduino/', views.arduino),
+    path('aluno/', views.aluno),
+    path('professor/', views.professor),
+    path('usuario/', views.usuario),
+    path('disciplina/', views.disciplina),
 
 ]

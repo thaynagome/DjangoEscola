@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from usuarios import views
 
-#from django.http import HttpResponse
+from django.http import HttpResponse
 
 def home(request):
     return render(request, 'usuarios/index.html')
@@ -53,4 +53,16 @@ def webdesign(request):
 
 def anima(request):
     return render(request, 'usuarios/anima.html')
+
+def usuario(request):
+    return render(request, 'usuarios/usuario.html')
+
+def aluno(request):
+    return render(request, 'usuarios/aluno.html')
+
+def disciplina(request):
+    return render(request, 'usuarios/disciplina.html')
+
+def professor(request):
+    return render(request, 'usuarios/professor.html')
 
