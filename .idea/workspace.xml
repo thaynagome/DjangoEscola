@@ -36,8 +36,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/base_de_dados/controle_usuarios/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state relative-caret-position="341">
+              <caret line="37" column="58" selection-start-line="37" selection-start-column="58" selection-end-line="37" selection-end-column="58" />
+              <folding>
+                <element signature="e#641#672#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -184,12 +187,12 @@
       <updated>1556663333104</updated>
       <workItem from="1556663334920" duration="5909000" />
       <workItem from="1556672549422" duration="597000" />
-      <workItem from="1556726457852" duration="4182000" />
+      <workItem from="1556726457852" duration="4389000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10688000" />
+    <option name="totallyTimeSpent" value="10895000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -416,8 +419,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/base_de_dados/controle_usuarios/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        <state relative-caret-position="341">
+          <caret line="37" column="58" selection-start-line="37" selection-start-column="58" selection-end-line="37" selection-end-column="58" />
+          <folding>
+            <element signature="e#641#672#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
