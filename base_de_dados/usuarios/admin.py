@@ -1,6 +1,10 @@
 from django.contrib import admin
-from .models import Categoria
-from .models import Usuario
+from .models import categoria
+from .models import usuario
+from .models import professor
+from .models import aluno
 
-admin.site.register(Categoria)
-admin.site.register(Usuario)
+admin.site.register(categoria)
+admin.site.register(usuario)
+admin.site.register(professor)
+admin.site.register(aluno)
