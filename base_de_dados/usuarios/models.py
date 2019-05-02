@@ -20,7 +20,7 @@ class usuario(models.Model):
         verbose_name_plural = "usuarios"
 
     def __str__(self):
-        return self.descricao
+        return self.nome
 
 class professor(models.Model):
     nome = models.CharField(max_length=100)
@@ -36,7 +36,7 @@ class professor(models.Model):
         verbose_name_plural = "professores"
 
     def __str__(self):
-        return self.descricao
+        return self.nome
 
 class aluno(models.Model):
     nome = models.CharField(max_length=100)
@@ -53,4 +53,4 @@ class aluno(models.Model):
         verbose_name_plural = "alunos"
 
     def __str__(self):
-        return self.descricao
+        return self.nome
