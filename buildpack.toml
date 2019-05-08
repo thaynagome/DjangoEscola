@@ -1,0 +1,15 @@
+ines (12 sloc)  183 Bytes
+    
+[buildpack]
+name = "Python"
+
+  [publish.Ignore]
+  files = [
+    "test/",
+    ".gitignore",
+    ".dockerignore",
+    ".github/",
+    "Dockerfile",
+    "Pipfile",
+    "Pipfile.lock"
+  ]
