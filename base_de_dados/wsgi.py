@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'controle_usuarios.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'base_de_dados.settings')
 
 application = get_wsgi_application()

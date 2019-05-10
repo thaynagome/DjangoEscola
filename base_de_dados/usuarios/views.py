@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from usuarios import views
+from base_de_dados.usuarios import views
 
 from django.http import HttpResponse
 

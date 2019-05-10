@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d956af06-b4d6-462e-83cc-5aa8d710459d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DjangoEscola.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DjangoEscola.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_de_dados/controle_usuarios/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_de_dados/controle_usuarios/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_de_dados/controle_usuarios/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_de_dados/controle_usuarios/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_de_dados/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_de_dados/usuarios/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_de_dados/usuarios/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,20 +39,68 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+            <state relative-caret-position="459">
+              <caret line="27" column="93" selection-start-line="27" selection-start-column="93" selection-end-line="27" selection-end-column="93" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base_de_dados/controle_usuarios/settings.py">
+        <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+            <state relative-caret-position="238">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/base_de_dados/runtime.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/base_de_dados/Procfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="45" selection-start-column="45" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/base_de_dados/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/base_de_dados/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -63,13 +119,18 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>controle_usuarios</find>
+      <find>from usuarios i</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/base_de_dados/usuarios/views.py" />
         <option value="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/aluno.html" />
         <option value="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/arduino.html" />
         <option value="$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/cobol.html" />
@@ -97,6 +158,13 @@
         <option value="$PROJECT_DIR$/base_de_dados/controle_usuarios/settings.py" />
         <option value="$PROJECT_DIR$/base_de_dados/usuarios/admin.py" />
         <option value="$PROJECT_DIR$/base_de_dados/usuarios/models.py" />
+        <option value="$PROJECT_DIR$/manage.py" />
+        <option value="$PROJECT_DIR$/base_de_dados/wsgi.py" />
+        <option value="$PROJECT_DIR$/base_de_dados/urls.py" />
+        <option value="$PROJECT_DIR$/base_de_dados/usuarios/views.py" />
+        <option value="$PROJECT_DIR$/base_de_dados/runtime.txt" />
+        <option value="$PROJECT_DIR$/base_de_dados/Procfile" />
+        <option value="$PROJECT_DIR$/base_de_dados/settings.py" />
       </list>
     </option>
   </component>
@@ -116,32 +184,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="DjangoEscola" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoEscola" type="462c0819:PsiDirectoryNode" />
+              <item name="djangoescola" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangoescola" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DjangoEscola" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoEscola" type="462c0819:PsiDirectoryNode" />
+              <item name="djangoescola" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangoescola" type="462c0819:PsiDirectoryNode" />
               <item name="base_de_dados" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DjangoEscola" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoEscola" type="462c0819:PsiDirectoryNode" />
-              <item name="base_de_dados" type="462c0819:PsiDirectoryNode" />
-              <item name="controle_usuarios" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DjangoEscola" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoEscola" type="462c0819:PsiDirectoryNode" />
-              <item name="base_de_dados" type="462c0819:PsiDirectoryNode" />
-              <item name="usuarios" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DjangoEscola" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoEscola" type="462c0819:PsiDirectoryNode" />
-              <item name="base_de_dados" type="462c0819:PsiDirectoryNode" />
-              <item name="usuarios" type="462c0819:PsiDirectoryNode" />
-              <item name="migrations" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -158,9 +207,12 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\devopsimpacta\djangoescola" />
+      <recent name="C:\Users\devopsimpacta\djangoescola\base_de_dados" />
       <recent name="C:\Users\tluzs\Documents\DjangoEscola\base_de_dados\usuarios\static" />
     </key>
   </component>
@@ -190,17 +242,18 @@
       <workItem from="1556672549422" duration="597000" />
       <workItem from="1556726457852" duration="11534000" />
       <workItem from="1556791017742" duration="18845000" />
+      <workItem from="1557452142044" duration="1607000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36885000" />
+    <option name="totallyTimeSpent" value="38492000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26340482" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -227,10 +280,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/base_de_dados/manage.py">
+    <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/base_de_dados/controle_usuarios/__init__.py">
+    <entry file="file://$PROJECT_DIR$/base_de_dados/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/templates/usuarios/arduino.html">
@@ -390,48 +443,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/django/db/backends/base/schema.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="306" selection-start-line="306" selection-end-line="306" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/django/apps/registry.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2584">
-          <caret line="161" selection-start-line="161" selection-end-line="161" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python37-32/Lib/site-packages/django/db/backends/base/schema.py" />
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python37-32/Lib/site-packages/django/apps/registry.py" />
     <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base_de_dados/controle_usuarios/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base_de_dados/controle_usuarios/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -447,8 +464,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+        <state relative-caret-position="459">
+          <caret line="27" column="93" selection-start-line="27" selection-start-column="93" selection-end-line="27" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base_de_dados/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base_de_dados/usuarios/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base_de_dados/runtime.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base_de_dados/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="45" selection-start-column="45" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base_de_dados/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
         </state>
       </provider>
     </entry>
