@@ -25,7 +25,7 @@ SECRET_KEY = 'qw!v5@8_=ez=g6htdvh^+i!0lbf63$2vex(s&l4jlf$x@r(+a!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['thayna-django']
+ALLOWED_HOSTS = ['thayna-django.herokuapp.com']
 
 
 # Application definition
